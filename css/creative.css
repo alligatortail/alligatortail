@@ -24,7 +24,9 @@ a {
   -moz-transition: all 0.2s;
   transition: all 0.2s;
 }
-
+.article-row{
+	margin: auto;
+}
 a:hover {
   color: #f05f40;
 }
@@ -169,7 +171,7 @@ img::-moz-selection {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url("../img/final1copylight-copy.jpg");
+  background-image: url("../img/4-copy3.jpg");
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
