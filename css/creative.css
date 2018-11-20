@@ -314,6 +314,10 @@ header.masthead p {
   padding: 1rem 2rem;
 }
 
+.sr-button{
+  margin-bottom:1rem;
+}
+
 .btn-primary {
   background-color: #F05F40;
   border-color: #F05F40;
