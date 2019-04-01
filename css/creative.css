@@ -26,6 +26,8 @@ a {
 }
 .article-row{
 	margin: auto;
+	text-align: center!important;
+	padding-left:1rem;
 }
 a:hover {
   color: #f05f40;
@@ -315,7 +317,7 @@ header.masthead p {
 }
 
 .sr-button{
-  margin-bottom:1rem;
+  margin: 1rem 1rem 1rem 1rem;
 }
 
 .btn-primary {
